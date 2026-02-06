@@ -1,0 +1,30 @@
+This repository demonstrates end-to-end SQL-based data analytics, covering exploratory data analysis and advanced business analytics techniques to transform raw data into actionable insights.
+
+📊 Data Analytics Techniques Covered
+🔍 Exploratory Data Analysis (EDA)
+
+Database structure exploration
+
+Dimension-level analysis
+
+Date and time-based exploration
+
+Measures and key metrics analysis
+
+Magnitude analysis (volume, totals, averages)
+
+Ranking analysis (Top N and Bottom N performance)
+
+📈 Advanced Data Analytics
+
+Change-over-time trend analysis
+
+Cumulative performance analysis
+
+Period-over-period performance comparison
+
+Part-to-whole contribution analysis
+
+Data segmentation and customer grouping
+
+Business reporting and insight generation
